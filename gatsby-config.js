@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `If Tech Day - AppBlog`,
+    title: `If Tech - App`,
     position: `Feito por Thiago Aquino`,
-    description: `Tudo sobre o If Tech Day!`,
+    description: `Tudo sobre o If Tech 2020`,
     author: `@thiagoac33`,
   },
   plugins: [
