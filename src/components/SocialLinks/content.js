@@ -1,20 +1,20 @@
 const links = [
     {
         label: "Github",
-        url: 'https://github.com/thiagoac33'
+        url: 'https://github.com/thiagoac33',
     },
     {
         label: "Twitter",
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/',
     },
     {
         label: "Instagram",
-        url: 'https://instagram.com'
+        url: 'https://instagram.com',
     },
     {
-        label: "FacebookSquare",
-        url: 'https://facebook.com'
-    }
+        label: "FacebookCircle",
+        url: 'https://facebook.com',
+    },
 ]
 
 export default links
