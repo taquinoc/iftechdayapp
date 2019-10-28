@@ -5,7 +5,7 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `If Tech - App`,
-    position: `Feito por Thiago Aquino`,
+    position: `Uma aplicação PWA para o IF TECH 2020`,
     description: `Tudo sobre o If Tech 2020`,
     author: `@thiagoac33`,
   },
@@ -52,9 +52,9 @@ module.exports = {
           },
           `gatsby-remark-lazy-load`,
           `gatsby-remark-prismjs`,
-        ], 
+        ],
       },
-    },  
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
