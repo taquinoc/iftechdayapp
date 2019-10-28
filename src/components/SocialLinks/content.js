@@ -11,10 +11,7 @@ const links = [
       label: "Instagram",
       url: 'https://instagram.com',
   },
-  {
-      label: "FacebookCircle",
-      url: 'https://facebook.com',
-  },
+
 ]
 
 export default links
