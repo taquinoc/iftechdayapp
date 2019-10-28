@@ -8,7 +8,7 @@ module.exports = {
     position: `Uma aplicação PWA para o IF TECH 2020`,
     description: `Tudo sobre o If Tech 2020`,
     author: `@thiagoac33`,
-    siteUrl: `https://johndoe.com.br`
+    siteUrl: `https://iftech.netlify.com/`
   },
   plugins: [
     `gatsby-plugin-transition-link`,
