@@ -23,7 +23,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-subscribers`,
+      resolve: `gatsby-plugin-suscribers`,
       options: {
         id: 'ff555b3d-d9df-432d-8733-67319b361b26',
       },
