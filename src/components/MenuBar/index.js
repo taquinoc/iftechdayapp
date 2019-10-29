@@ -28,7 +28,7 @@ const MenuBar = () => {
   return (
     <S.MenuBarWrapper>
       <S.MenuBarGroup>
-        <S.MenuBarLink to="/" title="Voltar para Home">
+        <S.MenuBarLink to="/" cover direction="left" bg={getThemeColor()} duration={0.6} title="Voltar para Home">
           <S.MenuBarItem>
             <Home />
           </S.MenuBarItem>
