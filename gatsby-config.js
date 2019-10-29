@@ -14,12 +14,18 @@ module.exports = {
     `gatsby-plugin-transition-link`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
-    
+   
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `uploads`,
         path: `${__dirname}/static/assets/img`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-subscribers`,
+      options: {
+        id: 'ff555b3d-d9df-432d-8733-67319b361b26',
       },
     },
     {
