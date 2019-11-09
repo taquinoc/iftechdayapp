@@ -4,8 +4,8 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   siteMetadata: {
-    title: `If Tech - App`,
-    position: `Uma aplicação PWA para o IF TECH 2020`,
+    title: `If Tech - 2020`,
+    position: `IF Tech - 2020 - Informações sobre eventos e muito mais`,
     description: `Tudo sobre o If Tech 2020`,
     author: `@thiagoac33`,
     siteUrl: `https://iftech.netlify.com/`
