@@ -1,5 +1,5 @@
 ---
-title: (DESTAQUE/FIXO) Programação do IF TECH 2020
+title: (DESTAQUE) Programação do IF TECH 2020
 description: Clique no titulo para ver a programação
 date: '2019-11-09 07:51:00'
 thumbnail: /assets/img/lake.jpg
